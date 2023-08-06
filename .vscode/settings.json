@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5502,
+    "livePreview.defaultPreviewPath": "/frontend/pages/ciclistas/ciclistas.html",
+    "conventionalCommits.scopes": [
+        "feat : proyecto filtro"
+    ]
+}
